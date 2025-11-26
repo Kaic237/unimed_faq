@@ -152,6 +152,18 @@
       "contact": {
         "phone": "(37) 3329-6100"
       }
+    },
+    {
+      "id": "lgpd-protecao-dados",
+      "question": "O que é a LGPD? Como a Unimed Alto São Francisco protege os seus dados?",
+      "answer": "A LGPD (Lei Geral de Proteção de Dados – Lei nº 13.709/2018) é a lei brasileira que define como dados pessoais devem ser coletados, usados, armazenados e protegidos.\n\nEla foi criada para garantir mais segurança, privacidade e transparência no tratamento das informações das pessoas.\n\nA Unimed Alto São Francisco segue rigorosamente a LGPD para garantir a segurança e a privacidade das informações de todos os beneficiários.\n\nColetamos e tratamos apenas os dados necessários para a prestação dos serviços de saúde, sempre com responsabilidade, confidencialidade e finalidade específica.\n\nAdotamos medidas técnicas e administrativas para proteger seus dados contra acessos não autorizados, uso indevido ou qualquer tratamento fora do permitido pela lei. Além disso, você pode solicitar informações sobre seus dados, pedir correções, acessar registros ou esclarecer dúvidas sobre como suas informações são utilizadas.\n\nSe quiser obter mais detalhes sobre o tratamento dos seus dados pessoais, nossa Ouvidoria e o Encarregado de Dados (DPO) estão disponíveis para atendimento através do telefone (37) 3329-6143 e e-mail lgpd@unimedasf.coop.br.",
+      "category": "Privacidade",
+      "keywords": ["LGPD", "proteção de dados", "privacidade", "dados pessoais", "segurança", "confidencialidade", "DPO", "encarregado de dados", "ouvidoria", "lei 13.709"],
+      "relatedLinks": [],
+      "contact": {
+        "phone": "(37) 3329-6143",
+        "email": "lgpd@unimedasf.coop.br"
+      }
     }
   ]
 }

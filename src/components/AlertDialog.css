@@ -107,7 +107,7 @@
   background-color: var(--green-main);
   color: var(--white);
   border: none;
-  border-radius: 12px;
+  border-radius: 0.25rem;
   padding: 12px 32px;
   font-size: 1rem;
   font-weight: 600;
